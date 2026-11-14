@@ -1,0 +1,6 @@
+{
+    "versionCode":  1000,
+    "versionName":  "1.0",
+    "changelog":  "正式版首个版本：独立版本号 1.0\n- 首页：模块注入状态 / 立即续一次\n- 功能页：自动续火花、好友列表、防撤回\n- 设置页与关于页\n- 更新源切换到 NKdy-Release",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.apk"
+}
