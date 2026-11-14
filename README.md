@@ -12,9 +12,13 @@
 
 ```json
 {
-  "versionCode": 1002,
-  "versionName": "1.0.2",
+  "versionCode": 1003,
+  "versionName": "1.0.3",
   "changelog": "本次更新说明",
-  "url": "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.2.apk"
+  "url": "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.3.apk"
 }
 ```
+
+## 作者
+
+NyxKy · 酷安主页：https://www.coolapk.com/u/30188535
