@@ -1,6 +1,6 @@
 {
-    "versionCode":  1004,
-    "versionName":  "1.0.4",
-    "changelog":  "新增无水印保存视频/图片与双击消息修改；修复已知问题",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.4.apk"
+    "versionCode":  1005,
+    "versionName":  "1.0.5",
+    "changelog":  "新增隐私保护：隐藏已读、隐藏访客记录、隐藏浏览记录；消息本地修改改用原生编辑弹窗；续火花与后台唤醒加固；修复已知问题",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.5.apk"
 }
