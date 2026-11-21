@@ -12,10 +12,10 @@
 
 ```json
 {
-  "versionCode": 1006,
-  "versionName": "1.0.6",
+  "versionCode": 1007,
+  "versionName": "1.0.7",
   "changelog": "本次更新说明",
-  "url": "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.6.apk"
+  "url": "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.7.apk"
 }
 ```
 
