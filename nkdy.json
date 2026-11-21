@@ -1,6 +1,7 @@
 {
-    "versionCode":  1005,
-    "versionName":  "1.0.5",
-    "changelog":  "新增隐私保护：隐藏已读、隐藏访客记录、隐藏浏览记录；消息本地修改改用原生编辑弹窗；续火花与后台唤醒加固；修复已知问题",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.5.apk"
+    "versionCode":  1006,
+    "versionName":  "1.0.6",
+    "changelog":  "修复已知问题",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.6.apk",
+    "sha256":  "da9b698b78faf596778e3ae114db0c200dc4007f75944d0b4661e15da7d0f755"
 }
