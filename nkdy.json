@@ -1,7 +1,7 @@
 {
-    "versionCode":  1008,
-    "versionName":  "1.0.8",
-    "changelog":  "1. 优化顶部状态栏磨砂模糊：仅在页面下滑时平滑浮现，支持跨 Tab 无缝过渡；2. 全面适配抖音 41.2.0，修复搜索页误蒙模糊问题；3. 全链路主线程性能优化",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.8.apk",
-    "sha256":  "8779d752454e59b26688b9b242ad47c6b69e65e2594a7724782224ee21e51d41"
+    "versionCode":  1009,
+    "versionName":  "1.0.8.1",
+    "changelog":  "1. 隐藏未集齐前的「全部功能与入口」折叠卡；2. 展示免费防骗声明；3. 关于页版本号标明正式版",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.8.1.apk",
+    "sha256":  "187995d4366c803c4e17e51e489ba2475f2ccbae5e022568efc38e2dcb1dc074"
 }
