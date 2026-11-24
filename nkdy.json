@@ -1,7 +1,7 @@
 {
-    "versionCode":  1010,
-    "versionName":  "1.0.10",
-    "changelog":  "1. 全应用功能说明统一收纳至标题旁圆形「!」感叹号按钮，点击平滑展开磨砂说明卡片，界面更清爽；2. 发送时间选择器升级为无限循环滚轮并加入刻度震动反馈；3. 全面重构好友列表 UI/UX：新增弹簧展开/收起动画、全部/仅看已选筛选、快捷搜索栏、选中态磨砂高亮与今日已续状态圆点",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.0.10.apk",
-    "sha256":  "bf1bac1b36e5c667093eb2a91aad5dc7a13f1586bacfeb35a247b160e7433a08"
+    "versionCode":  1011,
+    "versionName":  "1.1.1",
+    "changelog":  "1. 新增正版签名防二改自检、云端防倒卖风控与配置一键备份恢复；2. 修复定时自动续火花唤醒，新增双应用后台防冻结向导；3. 升级「时间抖动」液态滑块与快捷预设",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.1.1.apk",
+    "sha256":  "f3e471e5d3455f80bf964069dcd41ecd8d782209ad6bdfb77ebbaae9ac8255db"
 }
