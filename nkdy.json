@@ -1,7 +1,7 @@
 {
-    "versionCode":  1011,
-    "versionName":  "1.1.1",
-    "changelog":  "1. 新增正版签名防二改自检、云端防倒卖风控与配置一键备份恢复；2. 修复定时自动续火花唤醒，新增双应用后台防冻结向导；3. 升级「时间抖动」液态滑块与快捷预设",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.1.1.apk",
-    "sha256":  "f3e471e5d3455f80bf964069dcd41ecd8d782209ad6bdfb77ebbaae9ac8255db"
+    "versionCode":  1012,
+    "versionName":  "1.2.5",
+    "changelog":  "1. 新增自定义长按视频倍速（0.5x~3.0x 10档预设）；2. 新增作品与评论精确发布时间、全场景自由复制与分享链接去追踪；3. 新增主页实时 Hook 体检面板、快捷模块开关网格与 KPI 概览；4. 新增聊天/主页/评论区无水印媒体保存（含原格式 GIF）；5. 适配 41.x 聊天双击改写并修复主页「万/亿」字号",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.2.5.apk",
+    "sha256":  "955218e709e02d1658c8dad9738aa03cd63933c200f6c4a8367ca9ce3a2868cc"
 }
