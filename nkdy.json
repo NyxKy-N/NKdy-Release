@@ -1,7 +1,7 @@
 {
-    "versionCode":  1012,
-    "versionName":  "1.2.5",
-    "changelog":  "1. 新增自定义长按视频倍速（0.5x~3.0x 10档预设）；2. 新增作品与评论精确发布时间、全场景自由复制与分享链接去追踪；3. 新增主页实时 Hook 体检面板、快捷模块开关网格与 KPI 概览；4. 新增聊天/主页/评论区无水印媒体保存（含原格式 GIF）；5. 适配 41.x 聊天双击改写并修复主页「万/亿」字号",
-    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.2.5.apk",
-    "sha256":  "955218e709e02d1658c8dad9738aa03cd63933c200f6c4a8367ca9ce3a2868cc"
+    "versionCode":  1013,
+    "versionName":  "1.2.7",
+    "changelog":  "1. 新增「合养精灵助手」：支持自动免费喂食（绝不扣火星或抖币）、自动领火星、自动领爱心、按天巡检与一键立即执行；2. 无水印保存全家桶升级：新增磨砂动作单（视频/实况/提取原声 MP3/高清封面）、图文/实况多选挑选下载抽屉与多厂商实况照片自动封装",
+    "url":  "https://github.com/NyxKy-N/NKdy-Release/releases/latest/download/nkdy-1.2.7.apk",
+    "sha256":  "48a6c97627ff942179ee285c4270bd252a8dfed093abd3f36b0b35535513c5b0"
 }
